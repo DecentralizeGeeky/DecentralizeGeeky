@@ -1,7 +1,7 @@
 ## Hi there  
 
 ### 🔭 I’m currently working on...
-- Building decentralized applications (dApps) using the Polkadot blockchain.
+- Building decentralized applications (dApps) using the solana blockchain.
 - Developing educational resources for aspiring tech professionals in Northern Nigeria.
 - Enhancing my skills in Rust for fintech and blockchain solutions.
 
